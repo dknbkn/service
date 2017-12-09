@@ -1,0 +1,4 @@
+E:\workDocuments\service\service\Model\bin\Debug\Model.dll
+E:\workDocuments\service\service\Model\bin\Debug\Model.pdb
+E:\workDocuments\service\service\Model\obj\Debug\Model.dll
+E:\workDocuments\service\service\Model\obj\Debug\Model.pdb

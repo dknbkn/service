@@ -3,6 +3,7 @@
   <PropertyGroup>
     <UseIISExpress>true</UseIISExpress>
     <NameOfLastUsedPublishProfile>webConfig</NameOfLastUsedPublishProfile>
+    <IISExpressUseClassicPipelineMode>false</IISExpressUseClassicPipelineMode>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

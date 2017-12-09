@@ -15,6 +15,18 @@
     <File Include="bin/ApplicationInsights.config">
       <publishTime>11/26/2017 19:03:44</publishTime>
     </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>12/07/2017 17:16:51</publishTime>
+    </File>
+    <File Include="bin/BLL.pdb">
+      <publishTime>12/07/2017 17:16:51</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>12/07/2017 17:16:51</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>12/07/2017 17:16:51</publishTime>
+    </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>12/07/2015 19:04:38</publishTime>
     </File>
@@ -38,6 +50,18 @@
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>12/07/2017 17:06:57</publishTime>
+    </File>
+    <File Include="bin/Model.pdb">
+      <publishTime>12/07/2017 17:06:57</publishTime>
+    </File>
+    <File Include="bin/OracleHelper.dll">
+      <publishTime>12/07/2017 17:06:57</publishTime>
+    </File>
+    <File Include="bin/OracleHelper.pdb">
+      <publishTime>12/07/2017 17:06:57</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>06/18/2015 20:19:46</publishTime>
@@ -76,16 +100,16 @@
       <publishTime>06/18/2015 20:19:46</publishTime>
     </File>
     <File Include="bin/service.dll">
-      <publishTime>11/26/2017 19:05:30</publishTime>
+      <publishTime>12/07/2017 17:16:57</publishTime>
     </File>
     <File Include="bin/service.pdb">
-      <publishTime>11/26/2017 19:05:30</publishTime>
+      <publishTime>12/07/2017 17:16:57</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>11/26/2017 19:03:45</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>11/26/2017 19:05:32</publishTime>
+      <publishTime>12/07/2017 17:16:58</publishTime>
     </File>
     <File Include="scripts/ai.0.22.9-build00167.js">
       <publishTime>11/26/2017 19:03:45</publishTime>
@@ -94,7 +118,7 @@
       <publishTime>11/26/2017 19:03:45</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/26/2017 19:05:31</publishTime>
+      <publishTime>12/07/2017 17:07:16</publishTime>
     </File>
     <File Include="WebService1.asmx">
       <publishTime>11/26/2017 19:04:00</publishTime>

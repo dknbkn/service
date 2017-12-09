@@ -22,6 +22,14 @@ namespace service
         {
             return "Hello World";
         }
-
+        [WebMethod(Description = "添加用户")]
+        public int AddUser(string name, string password,string description)
+        {
+            service.Model.User u = new Model.User();
+            u.userName = name;
+            u.userPassWord = password;
+            u.userDescription = description;
+            return (new service.BLL.User()).AddUser(u);
+        }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    class PicTalk
+    class PictureTalk
     {
         public int id { get; set; }
         public string talkUserName { get; set; }

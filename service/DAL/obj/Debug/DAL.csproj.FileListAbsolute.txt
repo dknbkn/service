@@ -1,0 +1,9 @@
+E:\workDocuments\service\service\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\workDocuments\service\service\DAL\bin\Debug\DAL.dll
+E:\workDocuments\service\service\DAL\bin\Debug\DAL.pdb
+E:\workDocuments\service\service\DAL\bin\Debug\Model.dll
+E:\workDocuments\service\service\DAL\bin\Debug\OracleHelper.dll
+E:\workDocuments\service\service\DAL\bin\Debug\Model.pdb
+E:\workDocuments\service\service\DAL\bin\Debug\OracleHelper.pdb
+E:\workDocuments\service\service\DAL\obj\Debug\DAL.dll
+E:\workDocuments\service\service\DAL\obj\Debug\DAL.pdb

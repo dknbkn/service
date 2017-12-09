@@ -1,0 +1,11 @@
+E:\workDocuments\service\service\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\workDocuments\service\service\BLL\bin\Debug\BLL.dll
+E:\workDocuments\service\service\BLL\bin\Debug\BLL.pdb
+E:\workDocuments\service\service\BLL\bin\Debug\DAL.dll
+E:\workDocuments\service\service\BLL\bin\Debug\Model.dll
+E:\workDocuments\service\service\BLL\bin\Debug\OracleHelper.dll
+E:\workDocuments\service\service\BLL\bin\Debug\DAL.pdb
+E:\workDocuments\service\service\BLL\bin\Debug\Model.pdb
+E:\workDocuments\service\service\BLL\bin\Debug\OracleHelper.pdb
+E:\workDocuments\service\service\BLL\obj\Debug\BLL.dll
+E:\workDocuments\service\service\BLL\obj\Debug\BLL.pdb

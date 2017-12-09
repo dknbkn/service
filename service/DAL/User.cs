@@ -1,6 +1,6 @@
-﻿using Oracle.DataAccess.Client;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Data.OracleClient;
 using System.Linq;
 using System.Web;
 
@@ -10,7 +10,7 @@ namespace service.DAL
     {
         public int AddUser(service.Model.User u)
         {
-            string text = "insert into tb_user values(:name,:pswd,:description)";
+            string text = "insert into tb_user(U_NAME,U_PASSWORD,U_DESCRIPTION) values(:name,:pswd,:description)";
             OracleParameter[] pars = new OracleParameter[3]
           {
               new OracleParameter("name",u.userName),
@@ -19,5 +19,6 @@ namespace service.DAL
           };
             return OracleHelper.ExecuteNonQuery(text, pars);
         }
+ 
     }
 }

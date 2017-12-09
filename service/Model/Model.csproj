@@ -32,6 +32,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,11 +42,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Friend.cs" />
-    <Compile Include="PicTalk.cs" />
+    <Compile Include="PictureCollection.cs" />
+    <Compile Include="PictureTalk.cs" />
     <Compile Include="Picture.cs" />
+    <Compile Include="PictureDownload.cs" />
     <Compile Include="PictureType.cs" />
+    <Compile Include="PictureUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
+    <Compile Include="UserPicture.cs" />
+    <Compile Include="UserPictureType.cs" />
+    <Compile Include="UserTalk.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

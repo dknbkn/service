@@ -31,3 +31,11 @@ E:\workDocuments\service\service\service\bin\Microsoft.CodeDom.Providers.DotNetC
 E:\workDocuments\service\service\service\obj\Debug\service.csprojResolveAssemblyReference.cache
 E:\workDocuments\service\service\service\obj\Debug\service.dll
 E:\workDocuments\service\service\service\obj\Debug\service.pdb
+E:\workDocuments\service\service\service\bin\BLL.dll
+E:\workDocuments\service\service\service\bin\Model.dll
+E:\workDocuments\service\service\service\bin\OracleHelper.dll
+E:\workDocuments\service\service\service\bin\DAL.dll
+E:\workDocuments\service\service\service\bin\BLL.pdb
+E:\workDocuments\service\service\service\bin\Model.pdb
+E:\workDocuments\service\service\service\bin\OracleHelper.pdb
+E:\workDocuments\service\service\service\bin\DAL.pdb

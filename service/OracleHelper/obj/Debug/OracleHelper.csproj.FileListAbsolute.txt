@@ -1,0 +1,4 @@
+E:\workDocuments\service\service\OracleHelper\bin\Debug\OracleHelper.dll
+E:\workDocuments\service\service\OracleHelper\bin\Debug\OracleHelper.pdb
+E:\workDocuments\service\service\OracleHelper\obj\Debug\OracleHelper.dll
+E:\workDocuments\service\service\OracleHelper\obj\Debug\OracleHelper.pdb
