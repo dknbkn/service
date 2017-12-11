@@ -7,8 +7,8 @@ namespace service.Model
 {
     public class PictureType
     {
-        public String picTypeID { get; set; }
-        public String picTypeName { get; set; }
-
+        public int ptype_ID { get; set; }
+        public String ptype_Name { get; set; }
+        public int p_id { get; set; }
     }
 }

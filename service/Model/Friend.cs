@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model
+namespace service.Model
 {
-    class Friend
+   public class Friend
     {
         public int id { get; set; }
         public int userId { get; set; }

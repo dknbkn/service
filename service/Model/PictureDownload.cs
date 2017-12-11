@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model
+namespace service.Model
 {
-    class PictureDownload
+    public class PictureDownload
     {
+
     }
 }

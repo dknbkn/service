@@ -7,11 +7,13 @@ namespace service.Model
 {
     public class Picture
     {
-        public string picName { get; set; }
-        public string picDescription { get; set; }
-        public string picAddress { get; set; }
+        public string p_Name { get; set; }
+        public string p_Description { get; set; }
+        public string p_Address { get; set; }
         public object picture { get; set; }
-        public int picGoodNum { get; set; }
-        public int picTalk { get; set; }
+        public int p_id { get; set; }
+
+        public int u_id { get; set; }
+        public string u_date { get; set; }
     }
 }

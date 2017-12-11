@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Model
+namespace service.Model
 {
-    class PictureCollection
+    public class PictureCollection
     {
+        public int pc_id { get; set; }
+        public int p_id { get; set; }
+        public int u_id { get; set; }
+        public string u_name { get; set; }
     }
 }
